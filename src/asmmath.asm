@@ -1,3 +1,7 @@
+assume  adl=1
+
+section .text
+
 public _fp_mul
 public _fp_sqr
 
